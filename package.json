@@ -1,0 +1,26 @@
+{
+  "name": "html-basic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server"
+  },
+  "keywords": [],
+  "author": "Dway",
+  "license": "ISC",
+  "description": "belajar membuat html dasar",
+  "dependencies": {
+    "liveserver": "^0.1.20"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dwaysetya/fgo24-html-basic.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dwaysetya/fgo24-html-basic/issues"
+  },
+  "homepage": "https://github.com/Dwaysetya/fgo24-html-basic#readme"
+}
