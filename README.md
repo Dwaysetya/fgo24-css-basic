@@ -4,7 +4,7 @@ This repository contains simple HTML projects that focus on documenting the basi
 
 ## Preview
 
-![Preview](basic.png)
+![Preview](basic1.png)
 
 ## How to Run this project
 
