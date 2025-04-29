@@ -1,10 +1,10 @@
-## HTML Example project
+## CSS Example project
 
-This repository contains simple HTML projects that focus on documenting the basic structure of HTML for future development. This project aims to learn the use of basic tags and attributes in building HTML structures.
+This repository contains a collection of simple HTML and CSS projects designed to document the basic elements of HTML structure. Each project has been developed with CSS styles implemented inline, in order to deepen the understanding of the basic concept of styling directly within HTML elements. The main goal of this project is to provide hands-on experience in using inline CSS as part of learning CSS in the beginning.
 
 ## Preview
 
-![Preview](basic1.png)
+![Preview](cssbasic.png)
 
 ## How to Run this project
 
