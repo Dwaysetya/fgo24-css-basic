@@ -10,7 +10,7 @@ This repository contains a collection of simple HTML and CSS projects designed t
 
 1. Clone this project
 ```
-git clone https://github.com/Dwaysetya/fgo24-html-basic.git
+git clone https://github.com/Dwaysetya/fgo24-css-basic
 ```
 2. Enter the project firectory
 ```
